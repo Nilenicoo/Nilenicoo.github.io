@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4e47b54.css",
-    "main.js": "/static/js/main.81aa2d90.js",
-    "static/js/787.8e2e7589.chunk.js": "/static/js/787.8e2e7589.chunk.js",
-    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
-    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
-    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
-    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
-    "static/media/logo.svg": "/static/media/logo.b3977c26346ae2e474a80e62971bc76b.svg",
-    "index.html": "/index.html",
-    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.c4e47b54.css.map": "/static/css/main.c4e47b54.css.map",
-    "main.81aa2d90.js.map": "/static/js/main.81aa2d90.js.map",
-    "787.8e2e7589.chunk.js.map": "/static/js/787.8e2e7589.chunk.js.map"
+    "main.css": "/profee.ca/static/css/main.873c0379.css",
+    "main.js": "/profee.ca/static/js/main.1fb1eac3.js",
+    "static/js/787.8e2e7589.chunk.js": "/profee.ca/static/js/787.8e2e7589.chunk.js",
+    "static/media/Montserrat-Bold.ttf": "/profee.ca/static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
+    "static/media/Poppins-Regular.ttf": "/profee.ca/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/profee.ca/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-Bold.ttf": "/profee.ca/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/logo.svg": "/profee.ca/static/media/logo.b3977c26346ae2e474a80e62971bc76b.svg",
+    "index.html": "/profee.ca/index.html",
+    "static/media/getFetch.cjs": "/profee.ca/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.873c0379.css.map": "/profee.ca/static/css/main.873c0379.css.map",
+    "main.1fb1eac3.js.map": "/profee.ca/static/js/main.1fb1eac3.js.map",
+    "787.8e2e7589.chunk.js.map": "/profee.ca/static/js/787.8e2e7589.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4e47b54.css",
-    "static/js/main.81aa2d90.js"
+    "static/css/main.873c0379.css",
+    "static/js/main.1fb1eac3.js"
   ]
 }
